@@ -29,6 +29,7 @@ HTML5
 CSS3
 JavaScript
 Captura de Pantalla 📸
+
 ![1](https://github.com/user-attachments/assets/6731237a-e3fb-4100-bd27-2c2b6c73c467)
 
 ![2](https://github.com/user-attachments/assets/c249133c-7296-47a2-b735-27bf0de47d2f)
