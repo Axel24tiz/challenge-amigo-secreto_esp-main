@@ -24,11 +24,11 @@ Este proyecto permite realizar un sorteo de "Amigo Secreto" de forma sencilla y 
 5. Se mostrará una lista con los emparejamientos.
 6. Si deseas un nuevo sorteo, usa el botón "Reiniciar"
 
-Tecnologías 🛠️
-HTML5
-CSS3
-JavaScript
-Captura de Pantalla 📸
+.Tecnologías 🛠️
+_HTML5
+_CSS3
+_JavaScript
+_Captura de Pantalla 📸
 
 ![1](https://github.com/user-attachments/assets/6731237a-e3fb-4100-bd27-2c2b6c73c467)
 
